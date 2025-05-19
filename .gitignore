@@ -1,0 +1,8 @@
+# Ignore
+resume/*.*
+DS_Store
+resume.*
+
+# Allow
+!resume/*.tex
+!resume.tex
