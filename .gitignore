@@ -1,6 +1,6 @@
 # Ignore
 resume/*.*
-DS_Store
+.DS_Store
 resume.*
 
 # Allow
